@@ -112,3 +112,59 @@ box-shadow: 5px 5px 10px solid black;
     box-sizing: border-box !important;
 }
   }
+
+  /* MONEY TRANSFER CSS */
+
+
+.firststdiv{
+    height: 250px;
+    background: #30B0F9;
+    border-radius: 28px;
+    box-sizing: border-box !important;
+}
+
+.seconddiv{
+    background: #63CDFE;
+    height: 335px;
+    border-radius: 28px;
+    box-sizing: border-box !important;
+}
+/* media query */
+@media only screen and (max-width: 600px) {
+    
+.firststdiv{
+    height: 380px;
+    background: #30B0F9;
+    border-radius: 28px;
+    box-sizing: border-box !important;
+}
+
+
+  }
+
+
+  /* media query */
+@media only screen and (max-width: 768px) {
+
+
+.firststdiv{
+    height: 380px;
+    background: #30B0F9;
+    border-radius: 28px;
+    box-sizing: border-box !important;
+}
+
+  }
+
+    /* media query */
+@media only screen and (max-width: 998px) {
+
+    
+.firststdiv{
+    height: 380px;
+    background: #30B0F9;
+    border-radius: 28px;
+    box-sizing: border-box !important;
+}
+
+  }
